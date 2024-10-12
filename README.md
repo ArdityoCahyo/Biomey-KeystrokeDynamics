@@ -12,41 +12,6 @@
   <img src="https://badgen.net/github/last-commit/ArdityoCahyo/Biomey-KeystrokeDynamics" title="Last Commit" alt="Last Commit">                                                                 
 </p>
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BIOMEY</title>
-    <style>
-        .bio {
-            color: white;
-            font-weight: bold;
-        }
-        .mey {
-            color: #CCA9DD;
-            font-weight: bold;
-        }
-        .subtitle {
-            font-size: 16px;
-            margin-top: 10px;
-        }
-        body {
-            text-align: center;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <div>
-        <span class="bio">BIO</span><span class="mey">MEY</span>
-        <div class="subtitle">Biometric Keystroke Authentication for Android</div>
-    </div>
-</body>
-</html>
-```
-
 ## About
 
 ### English
