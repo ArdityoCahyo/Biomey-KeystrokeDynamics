@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.fragment.home.HomeFragment">
+
+    <Button
+        android:id="@+id/table_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RESET" />
+
+    <Button
+        android:id="@+id/table_print"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JSON Print" />
+
+    <Button
+        android:id="@+id/python_print"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Python Print" />
+
+    <Button
+        android:id="@+id/extract"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User-Adaptive"/>
+
+    <Button
+        android:id="@+id/distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mahalanobis" />
+
+    <Button
+        android:id="@+id/fusion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fusion"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello World" />
+
+    </ScrollView>
+
+
+</LinearLayout>

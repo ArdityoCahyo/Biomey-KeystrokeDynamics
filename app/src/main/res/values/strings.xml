@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Biomey</string>
+
+    <string name="title_fab">Add</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+</resources>
