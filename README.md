@@ -46,9 +46,8 @@ Aplikasi ini merupakan sebuah demo implementasi autentikasi menggunakan pola pen
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000750.png" height="400" alt="Screenshot 1" style="display:inline-block; margin-right:10px;"/>
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000837.png" height="400" alt="Screenshot 2" style="display:inline-block; margin-right:10px;"/>
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000728.png" height="400" alt="Screenshot 2" style="display:inline-block;"/>
+| ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000750.png) | ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000837.png) | ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000728.png) |
+|---|---|---|
 
 ## Support
 
