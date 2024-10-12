@@ -20,7 +20,7 @@
 This application is a demo implementation of authentication using an individual's typing pattern based on Android. In the future, this app will be used to compare several methods developed by our research group (currently, only one method is available). This application has been recreated with the hope of serving as a platform for implementing typing biometrics authentication ideas for future research and as a means to create a new dataset going forward. This app uses Chaquopy (Python SDK for Android), which allows for the integration of Python code into the application. Currently, this application is still using Groovy Build Configuration; in the future, we will reconsider the efficiency of the application's running time and convert the Build Configuration to Kotlin DSL.
 
 ### Bahasa Indonesia
-Aplikasi ini merupakan sebuah demo implementasi autentikasi menggunakan pola pengetikan seseorang berbasis Android, kedepannya aplikasi ini digunakan untuk membandingkan beberapa metode yang telah dilakukan oleh kelompok penelitian kami (Saat ini hanya tersedia 1 metode). Aplikasi ini dibuat kembali dengan harapan sebagai wadah implementasi ide autentikasi biometrik pengetikan untuk penelitian selanjutnya dan sebagai wadah pembuat dataset baru kedepannya. Aplikasi ini menggunakan Chaquopy (Python SDK for Android) yang memungkinkan untuk mengintegrasikan kode Python pada aplikasi ini. Saat ini Aplikasi ini masih menggunkan Build Configuration Groovy, kedepannya kami akan memikirkan kembali soal efisiensi waktu pada <i>running program</i> aplikasi ini dan mengonversikan Build Configuration menjadi Kotlin DSL.
+Aplikasi ini merupakan sebuah demo implementasi autentikasi menggunakan pola pengetikan seseorang berbasis Android, kedepannya aplikasi ini digunakan untuk membandingkan beberapa metode yang telah dilakukan oleh kelompok penelitian kami (Saat ini hanya tersedia 1 metode). Aplikasi ini dibuat kembali dengan harapan sebagai wadah implementasi ide autentikasi biometrik pengetikan untuk penelitian selanjutnya dan sebagai wadah pembuat dataset baru kedepannya. Aplikasi ini menggunakan Chaquopy (Python SDK for Android) yang memungkinkan untuk mengintegrasikan kode Python pada aplikasi ini. Saat ini Aplikasi ini masih menggunakan <i>Build Configuration</i> Groovy, kedepannya kami akan memikirkan kembali soal efisiensi waktu pada <i>running program</i> aplikasi ini dan mengonversikan <i>Build Configuration</i> menjadi Kotlin DSL.
 
 ## Authentication Method
 * User-Adaptive Method and Mahalanobis Distance
@@ -46,9 +46,9 @@ Aplikasi ini merupakan sebuah demo implementasi autentikasi menggunakan pola pen
 
 ### Screenshot
 
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000750.png" height="400" alt="Screenshot 1"/>
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000837.png" height="400" alt="Screenshot 2"/>
-<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000728.png" height="400" alt="Screenshot 2"/>
+<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000750.png" height="400" alt="Screenshot 1" style="display:inline-block; margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000837.png" height="400" alt="Screenshot 2" style="display:inline-block; margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000728.png" height="400" alt="Screenshot 2" style="display:inline-block;"/>
 
 ## Support
 
