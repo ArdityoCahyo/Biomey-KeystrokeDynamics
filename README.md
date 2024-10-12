@@ -49,6 +49,12 @@ Aplikasi ini merupakan sebuah demo implementasi autentikasi menggunakan pola pen
 | ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000750.png) | ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000837.png) | ![Screenshot](https://raw.githubusercontent.com/ArdityoCahyo/release-apk-repo/refs/heads/master/Screenshot/Biomey-KeystrokeDynamics/Screenshot_20241013_000728.png) |
 |---|---|---|
 
+## Futures Target
+* Makin' this application a keyboard app that can be opened in every application.
+* Add several methods.
+* Convert the Build Configuration to Kotlin DSL.
+* Reconsider the efficiency of the application's running time
+
 ## Support
 
 ### Contributors
