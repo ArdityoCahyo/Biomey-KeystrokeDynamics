@@ -12,8 +12,7 @@
   <img src="https://badgen.net/github/last-commit/ArdityoCahyo/Biomey-KeystrokeDynamics" title="Last Commit" alt="Last Commit">                                                                 
 </p>
 
-# Biomey
-## Biometric Keystroke Auth for Android
+# Biomey - Biometric Keystroke Auth for Android
 
 ## About
 
